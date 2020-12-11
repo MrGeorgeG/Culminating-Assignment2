@@ -1,0 +1,1786 @@
+fileFormatVersion: 2
+guid: a539e2064571e5a4d95ad3803cb1ccf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -90634466184159882
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_0
+  - first:
+      213: -2511812638425322115
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_1
+  - first:
+      213: -6318671103050143578
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_2
+  - first:
+      213: -7871561222865483497
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_3
+  - first:
+      213: -5337488258034734871
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_4
+  - first:
+      213: -1038516566679018890
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_5
+  - first:
+      213: 4984324952488863632
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_6
+  - first:
+      213: -1111524783180662122
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_7
+  - first:
+      213: -2944910685088976072
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_8
+  - first:
+      213: -2721119953598209942
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_9
+  - first:
+      213: 1483735063473322167
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_10
+  - first:
+      213: 9109503558067940917
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_11
+  - first:
+      213: 6645028584331392416
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_12
+  - first:
+      213: -3744898289660298725
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_13
+  - first:
+      213: 259784388660641962
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_14
+  - first:
+      213: -6984841072165588784
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_15
+  - first:
+      213: 8735819035222068553
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_16
+  - first:
+      213: -5556698502548517025
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_17
+  - first:
+      213: -7945940415690397780
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_18
+  - first:
+      213: 4908934933068532209
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_19
+  - first:
+      213: 5123744040166442108
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_20
+  - first:
+      213: -6180189100731667600
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_21
+  - first:
+      213: -1619092671518553801
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_22
+  - first:
+      213: -6421788018826203990
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_23
+  - first:
+      213: -6533593328591566233
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_24
+  - first:
+      213: 6781398958171996330
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_25
+  - first:
+      213: -7784266831492208662
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_26
+  - first:
+      213: -498364298092523424
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_27
+  - first:
+      213: 2298413564895858219
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_28
+  - first:
+      213: 8521621375171499935
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_29
+  - first:
+      213: 6717065873303352559
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_30
+  - first:
+      213: 8903542505642864180
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_31
+  - first:
+      213: -2596962030888358056
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_32
+  - first:
+      213: -8661642887108814640
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_33
+  - first:
+      213: 6955656292957102922
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_34
+  - first:
+      213: -4421455073944594405
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_35
+  - first:
+      213: 1917290960053028678
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_36
+  - first:
+      213: 4333064835899279384
+    second: walk10
+  - first:
+      213: -1099305205390631532
+    second: walk11
+  - first:
+      213: -1073558265694789677
+    second: walk12
+  - first:
+      213: -8356036513149385905
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_40
+  - first:
+      213: -5645439851035404299
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_41
+  - first:
+      213: -3981585213598895904
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_42
+  - first:
+      213: 8959845078109724749
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_43
+  - first:
+      213: -7143833968028774718
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_44
+  - first:
+      213: 848118874302990553
+    second: walk13
+  - first:
+      213: -9112776051548305607
+    second: walk14
+  - first:
+      213: -5598026611953367125
+    second: walk15
+  - first:
+      213: 376856897017257214
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_48
+  - first:
+      213: 403110897323136810
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_49
+  - first:
+      213: 7873718883174034794
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_50
+  - first:
+      213: 6635691480762182405
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_51
+  - first:
+      213: 3384293988720020518
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_52
+  - first:
+      213: -5104071761703004095
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_53
+  - first:
+      213: -5252407155048773352
+    second: walk1
+  - first:
+      213: -984222592856839859
+    second: walk2
+  - first:
+      213: -6789642808563523969
+    second: walk3
+  - first:
+      213: 5144589635889959239
+    second: walk4
+  - first:
+      213: 6188415567264620525
+    second: walk5
+  - first:
+      213: -6401299306379008851
+    second: walk6
+  - first:
+      213: -3798728517072847946
+    second: walk7
+  - first:
+      213: 616319268079309547
+    second: walk8
+  - first:
+      213: 8413131720261270636
+    second: walk9
+  - first:
+      213: 1770911772938050209
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_63
+  - first:
+      213: 2561309110229000905
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_64
+  - first:
+      213: 5681773897814861678
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_65
+  - first:
+      213: 2669474185344002914
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_66
+  - first:
+      213: -4105838825776930189
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_67
+  - first:
+      213: -2746638518888615269
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_68
+  - first:
+      213: -1799497080787032043
+    second: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 243
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d9fa6ee600ebef0800000000000000
+      internalID: -90634466184159882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 322
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6258a6bf342dd0800000000000000
+      internalID: -2511812638425322115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 322
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8ab2a0c129f48a0800000000000000
+      internalID: -6318671103050143578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 322
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190d5be5c892c290800000000000000
+      internalID: -7871561222865483497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 322
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8650365be6de5b0800000000000000
+      internalID: -5337488258034734871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 322
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722db55fa27691f0800000000000000
+      internalID: -1038516566679018890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 322
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e63ed221eb2540800000000000000
+      internalID: 4984324952488863632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 322
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a397b49121390f0800000000000000
+      internalID: -1111524783180662122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 322
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833f400b5539127d0800000000000000
+      internalID: -2944910685088976072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 322
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602d8eb1d3ac3ad0800000000000000
+      internalID: -2721119953598209942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 258
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87e17dd29479410800000000000000
+      internalID: 1483735063473322167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 258
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eebcac8357b6e70800000000000000
+      internalID: 9109503558067940917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 258
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b3636a42e73c50800000000000000
+      internalID: 6645028584331392416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 258
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a74dcc8d2770cc0800000000000000
+      internalID: -3744898289660298725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 258
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04f4c6680fa9300800000000000000
+      internalID: 259784388660641962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 258
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0f2095d0cd01f90800000000000000
+      internalID: -6984841072165588784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 258
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dc180d02ddb3970800000000000000
+      internalID: 8735819035222068553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 259
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f86af0724a2e2b0800000000000000
+      internalID: -5556698502548517025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 260
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7aa549a495ab190800000000000000
+      internalID: -7945940415690397780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 194
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f94e0f105a002440800000000000000
+      internalID: 4908934933068532209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 194
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74452ace023b1740800000000000000
+      internalID: 5123744040166442108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 194
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be526c1ce8b3aa0800000000000000
+      internalID: -6180189100731667600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 194
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739c2b72bc3d789e0800000000000000
+      internalID: -1619092671518553801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 194
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac210b22d931e6a0800000000000000
+      internalID: -6421788018826203990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 194
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a007eeb730455a0800000000000000
+      internalID: -6533593328591566233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 194
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cb0e4c6e5c1e50800000000000000
+      internalID: 6781398958171996330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 194
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72d004f8ab8f390800000000000000
+      internalID: -7784266831492208662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_27
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 194
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605573bf447519f0800000000000000
+      internalID: -498364298092523424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8e82b5fa95ef10800000000000000
+      internalID: 2298413564895858219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971971cd71e24670800000000000000
+      internalID: 8521621375171499935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 66
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4352fb2dfc73d50800000000000000
+      internalID: 6717065873303352559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2f636cbcbf8b70800000000000000
+      internalID: 8903542505642864180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 130
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe8bdcaccb5fbd0800000000000000
+      internalID: -2596962030888358056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 130
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8179e7fa9abc780800000000000000
+      internalID: -8661642887108814640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 130
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432b69bb84778060800000000000000
+      internalID: 6955656292957102922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 130
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b181f2f3906d3a2c0800000000000000
+      internalID: -4421455073944594405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 130
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647470d48f59b9a10800000000000000
+      internalID: 1917290960053028678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818438cb283222c30800000000000000
+      internalID: 4333064835899279384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d14f47dbb7eb0f0800000000000000
+      internalID: -1099305205390631532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd39ff174f911f0800000000000000
+      internalID: -1073558265694789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43898f3015690c80800000000000000
+      internalID: -8356036513149385905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_41
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75336cd5e57a1b0800000000000000
+      internalID: -5645439851035404299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 66
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07d74f7519eb8c0800000000000000
+      internalID: -3981585213598895904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 66
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40234390a3c75c70800000000000000
+      internalID: 8959845078109724749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_44
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 66
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce86411bd00cdc90800000000000000
+      internalID: -7143833968028774718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d842266f9f15cb00800000000000000
+      internalID: 848118874302990553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c6c1767ae88180800000000000000
+      internalID: -9112776051548305607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7065fb470df42b0800000000000000
+      internalID: -5598026611953367125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9ed5e95dda3500800000000000000
+      internalID: 376856897017257214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d800b933289500800000000000000
+      internalID: 403110897323136810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_50
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dafd48b91154d60800000000000000
+      internalID: 7873718883174034794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6aed8e36b61c50800000000000000
+      internalID: 6635691480762182405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_52
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8525b37d67fe20800000000000000
+      internalID: 3384293988720020518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_53
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148179776c1ba29b0800000000000000
+      internalID: -5104071761703004095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819099b5583bb17b0800000000000000
+      internalID: -5252407155048773352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49aad434c65752f0800000000000000
+      internalID: -984222592856839859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e19c3b6d756c1a0800000000000000
+      internalID: -6789642808563523969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 146
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74190624401456740800000000000000
+      internalID: 5144589635889959239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 147
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1e49bb2ba1e550800000000000000
+      internalID: 6188415567264620525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 146
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4235642340a27a0800000000000000
+      internalID: -6401299306379008851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf9bd4a84384bc0800000000000000
+      internalID: -3798728517072847946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 99
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29812eb1b9d8800800000000000000
+      internalID: 616319268079309547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 98
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7eb299b271c470800000000000000
+      internalID: 8413131720261270636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 66
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9782ffda839810800000000000000
+      internalID: 1770911772938050209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_64
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 66
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2eb2bb0199b8320800000000000000
+      internalID: 2561309110229000905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_65
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 66
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676759b147b9de40800000000000000
+      internalID: 5681773897814861678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 130
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b218ac0a0eb0520800000000000000
+      internalID: 2669474185344002914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 130
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722f8477512507c0800000000000000
+      internalID: -4105838825776930189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 130
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923d33c1daf1e9d0800000000000000
+      internalID: -2746638518888615269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__golden_sun_felix_by_thetaios012_da4y81k-(2)_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 130
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518265d60f6e607e0800000000000000
+      internalID: -1799497080787032043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1786 @@
+fileFormatVersion: 2
+guid: 44681dc03c2e54a458a626036cf34f7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7548722444116942138
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_0
+  - first:
+      213: 1703808930367210087
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_1
+  - first:
+      213: 4480796380387323035
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_2
+  - first:
+      213: -6617941885014068690
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_3
+  - first:
+      213: 3000770011244851728
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_4
+  - first:
+      213: -7016746506814571942
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_5
+  - first:
+      213: 710195872780467950
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_6
+  - first:
+      213: -31878724998525631
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_7
+  - first:
+      213: 3194077570946852126
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_8
+  - first:
+      213: -4852467051390508778
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_9
+  - first:
+      213: -8341101136765438497
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_10
+  - first:
+      213: 6261079545258029701
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_11
+  - first:
+      213: 1243819379334844496
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_12
+  - first:
+      213: -7112037884567232898
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_13
+  - first:
+      213: 7056035946070677892
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_14
+  - first:
+      213: 2887292255811573174
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_15
+  - first:
+      213: -1519442728225143834
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_16
+  - first:
+      213: -6091364203791586492
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_17
+  - first:
+      213: -3949640604723888271
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_18
+  - first:
+      213: -1558696175458653377
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_19
+  - first:
+      213: -2211889955978905118
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_20
+  - first:
+      213: 3829781516930677482
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_21
+  - first:
+      213: -7145454365402692361
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_22
+  - first:
+      213: -4716645977886262653
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_23
+  - first:
+      213: -623374713131547168
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_24
+  - first:
+      213: -8923009660935174192
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_25
+  - first:
+      213: 4143374004932329094
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_26
+  - first:
+      213: 8588050202167776048
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_27
+  - first:
+      213: 438595776558261135
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_28
+  - first:
+      213: 1479816434527750808
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_29
+  - first:
+      213: -8224752832937000847
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_30
+  - first:
+      213: 2650899848144017953
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_31
+  - first:
+      213: -462140504503223212
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_32
+  - first:
+      213: -3794653938853376977
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_33
+  - first:
+      213: -2871927845284655530
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_34
+  - first:
+      213: 9007590121967904533
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_35
+  - first:
+      213: 5590397232693198950
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_36
+  - first:
+      213: -2099511933264420291
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_37
+  - first:
+      213: -5388415620224873948
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_38
+  - first:
+      213: -2387674683466847644
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_39
+  - first:
+      213: 6415114980307373312
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_40
+  - first:
+      213: 2404759934327250134
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_41
+  - first:
+      213: -251219364506168881
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_42
+  - first:
+      213: 7522099308555711187
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_43
+  - first:
+      213: -1915469367780844477
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_44
+  - first:
+      213: -5459732685086538978
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_45
+  - first:
+      213: 5455437925734854161
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_46
+  - first:
+      213: -719898400589927721
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_47
+  - first:
+      213: -9065062939865138222
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_48
+  - first:
+      213: -523841819273991922
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_49
+  - first:
+      213: 5933385241324316058
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_50
+  - first:
+      213: -80940206318531270
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_51
+  - first:
+      213: 6225084844514205406
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_52
+  - first:
+      213: 632831060486146512
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_53
+  - first:
+      213: 9091036092734280706
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_54
+  - first:
+      213: 9099501159830414930
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_55
+  - first:
+      213: -6421236322926053841
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_56
+  - first:
+      213: 1605611211935100007
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_57
+  - first:
+      213: 2591394315419304614
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_58
+  - first:
+      213: 3228885944358090093
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_59
+  - first:
+      213: -2850344903440070013
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_60
+  - first:
+      213: 353624730802944288
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_61
+  - first:
+      213: 4458295995354250976
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_62
+  - first:
+      213: 8149072986048150351
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_63
+  - first:
+      213: 6779024488025263919
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_64
+  - first:
+      213: 3005019107290856857
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_65
+  - first:
+      213: -7325697907899971522
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_66
+  - first:
+      213: 6904591506653178950
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_67
+  - first:
+      213: -5611775254725343898
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_68
+  - first:
+      213: -2091230398168713708
+    second: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 43
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 241
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ddb9d611372c860800000000000000
+      internalID: 7548722444116942138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 321
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7620dabe13525a710800000000000000
+      internalID: 1703808930367210087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 321
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca7d3519cfe2e30800000000000000
+      internalID: 4480796380387323035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 321
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22be8f3be85824a0800000000000000
+      internalID: -6617941885014068690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 321
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f4ec2d60e4a920800000000000000
+      internalID: 3000770011244851728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 321
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aba567a328f9e90800000000000000
+      internalID: -7016746506814571942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 321
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee370e226f1bd900800000000000000
+      internalID: 710195872780467950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 321
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0290f77ebe8ff0800000000000000
+      internalID: -31878724998525631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 321
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e156459b0a4a35c20800000000000000
+      internalID: 3194077570946852126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_9
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 321
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e49d1de298acb0800000000000000
+      internalID: -4852467051390508778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 257
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd53d7b85b47e3c80800000000000000
+      internalID: -8341101136765438497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 257
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b19d7ca2d3e650800000000000000
+      internalID: 6261079545258029701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 257
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050100ea22fe24110800000000000000
+      internalID: 1243819379334844496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 257
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7edf35a937fc4d90800000000000000
+      internalID: -7112037884567232898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 257
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891ee7fe431ce160800000000000000
+      internalID: 7056035946070677892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_15
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 257
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b592665209b11820800000000000000
+      internalID: 2887292255811573174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 257
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3079793ead9eae0800000000000000
+      internalID: -1519442728225143834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_17
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 258
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be873b780277ba0800000000000000
+      internalID: -6091364203791586492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 259
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f39fccbce0039c0800000000000000
+      internalID: -3949640604723888271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97f9bddc9cd41e0800000000000000
+      internalID: -2211889955978905118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7204affd162530800000000000000
+      internalID: 3829781516930677482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48867ec1f36dc90800000000000000
+      internalID: -7145454365402692361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 193
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e545dd40045957f0800000000000000
+      internalID: -623374713131547168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 193
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d784905df91b2480800000000000000
+      internalID: -8923009660935174192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 193
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e349774b8308930800000000000000
+      internalID: 4143374004932329094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 193
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339e6d4822ee2770800000000000000
+      internalID: 8588050202167776048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 193
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83edb5f884361600800000000000000
+      internalID: 438595776558261135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 193
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acfc0f43d598410800000000000000
+      internalID: 1479816434527750808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 193
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170076300eecbdd80800000000000000
+      internalID: -8224752832937000847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 193
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ad2c7ed53e9c420800000000000000
+      internalID: 2650899848144017953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 193
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf3c0e8a52699f0800000000000000
+      internalID: -462140504503223212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 145
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8b19f85ea65bc0800000000000000
+      internalID: -3794653938853376977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e414147dcd428d0800000000000000
+      internalID: -2871927845284655530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e63edd73610d70800000000000000
+      internalID: 9007590121967904533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 129
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6604108f9a4159d40800000000000000
+      internalID: 5590397232693198950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 129
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a41835090dd2e0800000000000000
+      internalID: -2099511933264420291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 129
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a845eda808835b0800000000000000
+      internalID: -5388415620224873948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 129
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae3cc96864dded0800000000000000
+      internalID: -2387674683466847644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 129
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d028af511170950800000000000000
+      internalID: 6415114980307373312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_41
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 129
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcdaa75b6c6f5120800000000000000
+      internalID: 2404759934327250134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_42
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 129
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc119e9a15d738cf0800000000000000
+      internalID: -251219364506168881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_43
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 129
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2bca3a77dd36860800000000000000
+      internalID: 7522099308555711187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_44
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 129
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd74332c2ea65e0800000000000000
+      internalID: -1915469367780844477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c3d0cc022b34b0800000000000000
+      internalID: -5459732685086538978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 97
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eae99a3eb95bb40800000000000000
+      internalID: 5455437925734854161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da277608386206f0800000000000000
+      internalID: -719898400589927721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb7c2f84d623280800000000000000
+      internalID: -9065062939865138222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09edab04a0fab8f0800000000000000
+      internalID: -523841819273991922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a956ea8c07e975250800000000000000
+      internalID: 5933385241324316058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 65
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d465aaf4170eef0800000000000000
+      internalID: -80940206318531270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_52
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 65
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ededfe52fa1f36650800000000000000
+      internalID: 6225084844514205406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94c132f7448c800800000000000000
+      internalID: 632831060486146512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_54
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 65
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049ea3f829d92e70800000000000000
+      internalID: 9091036092734280706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 65
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25662f8f71ce74e70800000000000000
+      internalID: 9099501159830414930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_56
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 65
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f263821e59f23e6a0800000000000000
+      internalID: -6421236322926053841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca6cee3e6484610800000000000000
+      internalID: 1605611211935100007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c88b666b76f320800000000000000
+      internalID: 2591394315419304614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6537b5b8ae4fcc20800000000000000
+      internalID: 3228885944358090093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_60
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0c1f796a8178d0800000000000000
+      internalID: -2850344903440070013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0297d4fa1d358e400800000000000000
+      internalID: 353624730802944288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_62
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef2a2369c0fdd30800000000000000
+      internalID: 4458295995354250976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb12684b2571170800000000000000
+      internalID: 8149072986048150351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f8b64eadee31e50800000000000000
+      internalID: 6779024488025263919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_65
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3551f4f8f3b920800000000000000
+      internalID: 3005019107290856857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ccc3e094e55a90800000000000000
+      internalID: -7325697907899971522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_67
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ced39a46902df50800000000000000
+      internalID: 6904591506653178950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_68
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665c4c66328fe12b0800000000000000
+      internalID: -5611775254725343898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b7ad58057af2e0800000000000000
+      internalID: -2091230398168713708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be60536166e5ae0800000000000000
+      internalID: -1558696175458653377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_version__nicob_by_thetaios012_da8xk0k0.1_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 65
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a70d4197b1b8eb0800000000000000
+      internalID: -4716645977886262653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
