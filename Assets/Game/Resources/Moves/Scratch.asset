@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Scratch
   description: 
-  type: 3
+  pE_ball: {fileID: 0}
+  type: 7
   power: 20
   accuracy: 100
   pp: 30

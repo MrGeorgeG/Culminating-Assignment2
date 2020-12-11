@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Growl
   description: 
-  type: 7
+  pE_ball: {fileID: 0}
+  type: 1
   power: 10
   accuracy: 100
   pp: 10

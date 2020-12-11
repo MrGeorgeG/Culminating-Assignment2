@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Ember
   description: 
-  type: 11
+  pE_ball: {fileID: 834835073868585574, guid: a31cd1314eea061419c9770f39d85a49, type: 3}
+  type: 2
   power: 15
   accuracy: 100
   pp: 60

@@ -13,14 +13,33 @@ public class BattleSystem : MonoBehaviour
     [SerializeField] BattleHud enemyHud;
     [SerializeField] BattleDialogBox dialogBox;
 
+
     public event Action<bool> OnBattleOver;
+
+    public bool isTrun;
+    private Animator animator;
 
     BattleState state;
     int currentAction;
     int currentMove;
 
+    bool isTrainerBattle = false;
+    PlayerController player;
+
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     public void StartBattle()
     {
+        StartCoroutine(SetupBattle());
+    }
+
+    public void StrartTrainerBattle()
+    {
+        isTrainerBattle = true;
+
         StartCoroutine(SetupBattle());
     }
 
@@ -43,26 +62,36 @@ public class BattleSystem : MonoBehaviour
         state = BattleState.PlayerAction;
         StartCoroutine(dialogBox.TypeDialog("Chosse an action"));
         dialogBox.EnableActionSelector(true);
+        
     }
 
     void PlayerMove()
     {
+        isTrun = true;
         state = BattleState.PlayerMove;
         dialogBox.EnableActionSelector(false);
         dialogBox.EnableDialogText(false);
         dialogBox.EnableMoveSelector(true);
+
+        isTrun = false;
     }
 
     IEnumerator PerformPlayerMove()
     {
+
         state = BattleState.Busy;
 
+        
+        
         var move = playerUnit.Character.Moves[currentMove];
         yield return dialogBox.TypeDialog($"{playerUnit.Character.Base.Name} used {move.Base.Name}");
-
+        isTrun = true;
         var damageDetails = enemyUnit.Character.TakeDamage(move, playerUnit.Character);
+
+
         yield return enemyHud.UpdateHP();
         yield return ShowDamageDetails(damageDetails);
+        
 
         if (damageDetails.Fainted)
         {
@@ -80,7 +109,7 @@ public class BattleSystem : MonoBehaviour
     IEnumerator EnemyMove()
     {
         state = BattleState.EnemyMove;
-
+        
         var move = enemyUnit.Character.GetRandomMove();
         yield return dialogBox.TypeDialog($"{enemyUnit.Character.Base.Name} used {move.Base.Name}");
 
@@ -127,6 +156,8 @@ public class BattleSystem : MonoBehaviour
         {
             HandleMoveSelection();
         }
+        
+        
     }
 
     void HandleActionSelection()
@@ -148,7 +179,7 @@ public class BattleSystem : MonoBehaviour
 
         dialogBox.UpdateActionSelection(currentAction);
 
-        if(Input.GetKeyDown(KeyCode.Z))
+        if(Input.GetKeyDown(KeyCode.Space))
         {
             if (currentAction == 0)
             {
@@ -158,6 +189,8 @@ public class BattleSystem : MonoBehaviour
             else if (currentAction == 1)
             {
                 //Run
+                OnBattleOver(false);
+
             }
         }
     }
@@ -189,13 +222,14 @@ public class BattleSystem : MonoBehaviour
         {
             if (currentMove > 1)
             {
+                
                 currentMove -= 2;
             }
         }
 
         dialogBox.UpdateMoveSelection(currentMove, playerUnit.Character.Moves[currentMove]);
 
-        if(Input.GetKeyDown(KeyCode.Z))
+        if(Input.GetKeyDown(KeyCode.Space))
         {
             dialogBox.EnableMoveSelector(false);
             dialogBox.EnableDialogText(true);
