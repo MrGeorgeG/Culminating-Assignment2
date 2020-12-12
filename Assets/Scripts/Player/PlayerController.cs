@@ -27,8 +27,8 @@ public class PlayerController : MonoBehaviour
     }
     private void Update()
     {
-        PlayerPrefs.SetFloat("PosX", transform.position.x);
-        PlayerPrefs.SetFloat("PosY", transform.position.y);
+        //PlayerPrefs.SetFloat("PosX", transform.position.x);
+        //PlayerPrefs.SetFloat("PosY", transform.position.y);
     }
 
     private Animator animator;
@@ -122,5 +122,11 @@ public class PlayerController : MonoBehaviour
                 OnEncountered();
             }
         }
+    }
+
+    public void Save()
+    {
+        PlayerPrefs.SetFloat("PosX", transform.position.x);
+        PlayerPrefs.SetFloat("PosY", transform.position.y);
     }
 }

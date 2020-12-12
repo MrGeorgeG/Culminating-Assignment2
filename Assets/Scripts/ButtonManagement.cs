@@ -9,4 +9,9 @@ public class ButtonManagement : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
+
+    public void OnExitButtonPressed()
+    {
+        Application.Quit();
+    }
 }
