@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60405728cfb4aa54bbccbcd5591c0724, type: 3}
   m_Name: Bulbasaur
   m_EditorClassIdentifier: 
-  name: Bulbasaur
+  name: Owen
   desciption: 
   frontSprite: {fileID: -8341101136765438497, guid: 44681dc03c2e54a458a626036cf34f7d, type: 3}
   backSprite: {fileID: -90634466184159882, guid: a539e2064571e5a4d95ad3803cb1ccf4, type: 3}
